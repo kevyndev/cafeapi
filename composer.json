@@ -1,0 +1,27 @@
+{
+  "name": "kevyndev/cafeapi",
+  "description": "Biblioteca API para integração com o webservice do SaaS FSPHP",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Robson V. Leite",
+      "email": "cursos@upinside.com.br",
+      "role": "Developer"
+    },
+    {
+      "name": "Kevyn Nathan",
+      "email": "kevynn.nathan@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^8.1",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "KevynNathan\\CafeApi\\": "src"
+    }
+  }
+}
