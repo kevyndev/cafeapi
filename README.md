@@ -152,7 +152,7 @@ Você também conta com classes para os endpoints de carteiras e assinaturas, to
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/robsonvleite/uploader/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/kevyndev/uploader/blob/master/CONTRIBUTING.md) for details.
 
 ## Support
 
@@ -166,7 +166,7 @@ Thank you
 
 - [Robson V. Leite](https://github.com/robsonvleite) (Developer)
 - [UpInside Treinamentos](https://github.com/robsonvleite) (Team)
-- [All Contributors](https://github.com/robsonvleite/cafeapi/contributors) (This Rock)
+- [All Contributors](https://github.com/kevyndev/cafeapi/contributors) (This Rock)
 
 ## License
 
